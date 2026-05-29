@@ -8,7 +8,7 @@ I build intelligent systems that solve real problems. Currently focused on appli
 
 ### What I'm Working On
 
-- **[JARVIS](https://github.com/saikrishna-211/jarvis)** — AI personal assistant with real-time voice interaction, memory persistence, and tool-use capabilities. Built with Next.js, FastAPI, and local LLMs (Ollama). Features speech-to-text, text-to-speech, and conversational memory.
+- 🚧 **JARVIS** *(coming soon)* — Building an AI personal assistant with real-time voice interaction, memory persistence, and tool-use capabilities. Built with Next.js, FastAPI, and local LLMs (Ollama).
 
 - **[House Price Prediction](https://github.com/saikrishna-211/house-price-prediction)** — End-to-end ML pipeline for real estate valuation using regression models. Includes feature engineering, exploratory data analysis, and model comparison.
 
