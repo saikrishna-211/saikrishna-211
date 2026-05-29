@@ -1,6 +1,6 @@
 # Hi, I'm Sai Krishna 👋
 
-**CS Undergrad @ NIT Durgapur '27 · AI/ML · Full-Stack Development**
+**CS Undergrad @ NIT Durgapur '28 · AI/ML · Full-Stack Development**
 
 I build intelligent systems that solve real problems. Currently focused on applied machine learning and building production-grade AI applications.
 
