@@ -16,11 +16,11 @@ I build intelligent systems that solve real problems. Currently focused on appli
 
 ### Technical Skills
 
-**Languages:** Python, C/C++, JavaScript, TypeScript, SQL  
-**AI/ML:** TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Deep Learning, NLP  
-**Web:** React, Next.js, Node.js, FastAPI, HTML/CSS  
-**Tools:** Git, Linux, Docker, VS Code, Jupyter  
-**Core CS:** Data Structures & Algorithms, OOP, DBMS, OS
+**Languages:** Python, C,C++, JavaScript,python, SQL  
+**AI/ML:**  Scikit-learn, Pandas, NumPy, Deep Learning, NLP  
+**Web:** React, HTML/CSS  
+**Tools:** Git, 
+**Core CS:** Data Structures & Algorithms, OOPs, DBMS, OS
 
 ### Currently
 
