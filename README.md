@@ -10,7 +10,7 @@
 
 # 🚀 About Me
 
-🎓 B.Tech Undergraduate at NIT Durgapur ('28)
+🎓 B.Tech  CSE Undergraduate at NIT Durgapur ('28)
 
 💡 Passionate about:
 - Artificial Intelligence
