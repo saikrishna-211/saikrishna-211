@@ -1,30 +1,30 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sai%20Krishna%20Arepally&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20NIT%20Durgapur%20%2728&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
-</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sai%20Krishna%20Arepally&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20ML%20%2F%20DL%20%E2%80%A2%20NIT%20Durgapur%20%2728&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=24&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&height=50&lines=AI+Engineer+in+the+Making;Machine+Learning+%2F+Deep+Learning;Building+Real+End-to-End+ML+Systems;Exploring+Transformers;Open+to+AI+%2F+ML+Internships" alt="Typing SVG"/>
 
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=24&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&height=50&lines=AI+Engineer+%C2%B7+Full-Stack+Developer;Turning+ideas+into+intelligent+systems.;Currently+building+JARVIS+%E2%80%94+locally.;Open+to+SDE+%2F+ML+Internships." alt="Typing SVG"/>
 </div>
 
 ---
 
 ## ⚡ About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikrishna-211&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" width="235"/>
+I'm a Computer Science undergraduate at **NIT Durgapur ('28)**, focused on building a strong foundation in **Artificial Intelligence, Machine Learning, and software development**.
 
-I'm a Computer Science undergrad at **NIT Durgapur** ('28), building at the intersection of **AI and full-stack engineering**. I care about making AI systems that are genuinely useful — not just demos.
+My learning journey has taken me from **classical Machine Learning and Scikit-learn to Deep Learning concepts and Transformers**. I enjoy working with real datasets, building complete ML pipelines, understanding model behavior, and turning trained models into practical applications.
 
-Right now I'm deep in building **JARVIS**, a local AI assistant with real voice interaction, memory, and tool-use — no cloud, no API keys, just local LLMs doing real work.
+I've worked on projects involving **data preprocessing, feature engineering, model evaluation, imbalanced learning, XGBoost, SHAP explainability, and Streamlit deployment**.
 
-When I'm not building, I'm studying transformer internals, sharpening DSA, and looking for an **SDE / ML internship** where I can contribute to something meaningful.
+I'm also building my software development foundation with **C++, Python, Flask, SQLite3, Git, GitHub, and Docker**.
 
-> *"The best AI apps don't feel like AI at all."*
+Currently, I'm strengthening my **Deep Learning, Transformer, DSA, Flask, and software engineering** skills while building practical AI/ML projects.
 
-<br clear="right"/>
+I'm working towards becoming a strong **AI Engineer** and am looking for an **AI / ML internship** where I can learn, contribute, and work on meaningful problems.
+
+> *"Learn deeply. Build practically. Improve continuously."*
 
 ---
 
@@ -32,59 +32,104 @@ When I'm not building, I'm studying transformer internals, sharpening DSA, and l
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### 🤖 JARVIS *(In Progress)*
-> Personal AI assistant — voice, memory, tools
+### 💳 CreditRisk AI
 
-Full-stack local AI. Real-time voice interaction, persistent memory, and agentic tool-use. Powered by Ollama + local LLMs — no cloud required.
+> Explainable Machine Learning for Credit-Risk Classification
 
-**Next.js · FastAPI · Ollama · LangChain**
+An end-to-end machine learning system for estimating serious delinquency risk from financial and credit behavior.
 
-![WIP](https://img.shields.io/badge/status-building-ff6b35?style=flat-square)
-![LLM](https://img.shields.io/badge/Local%20LLM-Powered-6E57F7?style=flat-square)
+The project includes:
+
+- Data preprocessing
+- Feature engineering
+- XGBoost
+- Random Forest
+- Logistic Regression
+- SMOTE for class imbalance
+- Model comparison
+- Threshold analysis
+- Precision / Recall / F1 evaluation
+- SHAP explainability
+- Interactive Streamlit dashboard
+
+🔴 **[Live Demo](https://credit-risk-classifier-2026.streamlit.app/)**
+
+🔗 **[GitHub Repository](https://github.com/saikrishna-211/Credit-Risk-Classifier-)**
+
+**Python · Scikit-learn · XGBoost · SHAP · SMOTE · Pandas · Plotly · Streamlit**
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🏠 [House Price Prediction](https://github.com/saikrishna-211/house-price-prediction)
-> End-to-end ML pipeline for real estate valuation
+### 🏠 House Price Prediction
 
-Feature engineering, EDA, and multi-model comparison. Built with production-grade pipeline structure, not just a notebook.
+> End-to-End Machine Learning Application for Real Estate
 
-**Python · Scikit-learn · Pandas · NumPy**
+A machine learning application for predicting house prices using the Bengaluru housing dataset.
 
-![ML](https://img.shields.io/badge/Machine%20Learning-End--to--End-1DA462?style=flat-square)
-![Open](https://img.shields.io/badge/status-public-brightgreen?style=flat-square)
+The project includes:
+
+- Data cleaning
+- Feature engineering
+- Exploratory Data Analysis
+- Regression models
+- Model comparison
+- Prediction pipeline
+- Interactive Streamlit dashboard
+- Deployment
+
+🔗 **[GitHub Repository](https://github.com/saikrishna-211/house-price-prediction)**
+
+**Python · Scikit-learn · Pandas · NumPy · Matplotlib · Streamlit**
 
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%" valign="top">
 
-### 🎯 [Aarohan Timeline](https://github.com/saikrishna-211/aarohan-timeline)
-> Official app for NIT Durgapur's annual tech fest
+### 🎯 Aarohan Timeline
 
-Interactive timeline web app serving thousands of NIT DGP students. Built in TypeScript with clean component architecture.
+> Interactive Event Timeline for NIT Durgapur
 
-**React · TypeScript · HTML/CSS**
+A web project created for **Aarohan**, the annual technical fest of NIT Durgapur.
 
-![Live](https://img.shields.io/badge/status-live-0077B5?style=flat-square)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript&logoColor=white)
+The project focuses on presenting event information through an interactive timeline interface.
+
+🔗 **[GitHub Repository](https://github.com/saikrishna-211/aarohan-timeline)**
+
+**HTML · CSS · JavaScript · Git · GitHub**
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🔭 Coming Soon
-> Always something in the pipeline
+### 🔬 Current Focus
 
-Currently researching transformer internals and planning open-source contributions to ML tooling.
+> Building the foundations for a career in AI Engineering
 
-**Research phase · Transformer Architectures**
+Currently focusing on:
 
-![Soon](https://img.shields.io/badge/status-research-yellow?style=flat-square)
+- Deep Learning
+- Neural Networks
+- CNNs
+- RNNs
+- Attention mechanisms
+- Transformers
+- NLP fundamentals
+- Machine Learning systems
+- DSA and problem solving
+
+**AI / ML · Deep Learning · Transformers · Software Engineering**
 
 </td>
+
 </tr>
 </table>
 
@@ -92,36 +137,89 @@ Currently researching transformer internals and planning open-source contributio
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+### 💻 Languages
 
-**Languages**
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,sql" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+### 🤖 Machine Learning
 
-**AI / ML**
+<p>
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-189A3B?style=for-the-badge&logo=xgboost&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/SHAP-Explainability-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SMOTE-Imbalanced%20Learning-06B6D4?style=for-the-badge"/>
 
-**Web & Backend**
+</p>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+**Concepts & Skills**
 
-**Tools**
+- Supervised Learning
+- Regression
+- Classification
+- Decision Trees
+- Random Forest
+- XGBoost
+- Logistic Regression
+- Feature Engineering
+- Data Preprocessing
+- Model Evaluation
+- Cross-validation
+- Imbalanced Learning
+- Threshold Optimization
+- Explainable AI
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+### 🧠 Deep Learning
 
-</div>
+**Concepts studied:**
+
+- Neural Networks
+- Forward Propagation
+- Backpropagation
+- Activation Functions
+- Loss Functions
+- Optimization
+- CNNs
+- RNNs
+- Attention Mechanisms
+- Transformers
+- NLP Fundamentals
+
+> Currently focused on strengthening Deep Learning and Transformer fundamentals through practical learning and projects.
+
+### 🌐 Web & Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=flask,sqlite" />
+
+</p>
+
+- Flask
+- SQLite3
+- Streamlit
+- HTML
+- CSS
+- JavaScript
+
+### 🧰 Tools & Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,jupyter,linux" />
+
+</p>
+
+- Git
+- GitHub
+- Docker
+- VS Code
+- Jupyter Notebook
+- Linux / WSL
 
 ---
 
@@ -130,29 +228,97 @@ Currently researching transformer internals and planning open-source contributio
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=saikrishna-211&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="175"/>
+
 &nbsp;&nbsp;
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikrishna-211&theme=tokyonight&hide_border=true" height="175"/>
 
 </div>
 
+<br/>
+
 <div align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=saikrishna-211&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+
 </div>
 
 ---
 
+## 🎯 Current Goals
+
+- Strengthen Machine Learning fundamentals
+- Build deeper practical understanding of Deep Learning
+- Understand Transformer architectures
+- Build practical NLP projects
+- Improve DSA and problem-solving
+- Build and deploy more end-to-end AI applications
+- Strengthen backend development with Flask
+- Improve software engineering practices
+- Gain real-world AI / ML internship experience
+
+---
+
+## 📚 Learning Journey
+
+text
+Programming
+     │
+     ├── C++
+     ├── Python
+     └── DSA
+          │
+          ▼
+Data Science
+     │
+     ├── NumPy
+     ├── Pandas
+     ├── Matplotlib
+     └── Seaborn
+          │
+          ▼
+Machine Learning
+     │
+     ├── Linear Regression
+     ├── Logistic Regression
+     ├── Decision Trees
+     ├── Random Forest
+     ├── XGBoost
+     ├── Feature Engineering
+     └── Model Evaluation
+          │
+          ▼
+Advanced ML
+     │
+     ├── Imbalanced Learning
+     ├── SMOTE
+     ├── Threshold Optimization
+     └── SHAP Explainability
+          │
+          ▼
+Deep Learning
+     │
+     ├── Neural Networks
+     ├── CNNs
+     ├── RNNs
+     ├── Attention
+     └── Transformers  ← Currently Here
+
+🎯 What I'm Building Toward
+
+I'm currently strengthening my knowledge of Deep Learning and Transformers and working toward becoming an AI Engineer.
+
+My goal is to gradually build the ability to take an AI/ML idea through the complete lifecycle:
+
+Problem → Data → Model → Evaluation → Explainability → Deployment
+
+I want to go beyond simply training models and develop a strong understanding of how AI/ML systems are built, evaluated, deployed, and improved.
+
+Current Focus: Deep Learning · Transformers · NLP · DSA · Practical ML Systems
+
 <div align="center">
+💬 AI Engineer in the Making
 
-### 💬 Open to opportunities. Let's build something real.
+Learn deeply · Build practically · Keep improving
 
-<br/>
-
-[![Gmail](https://img.shields.io/badge/Gmail-arepallysaikrishna2%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arepallysaikrishna2@gmail.com)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sai--krishna-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-krishna-368328324/)&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-Siddu__2-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Siddu_2/)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-</div>
+<br/> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/> </div> ```
