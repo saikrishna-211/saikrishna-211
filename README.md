@@ -266,7 +266,7 @@ I want to go beyond simply training models and develop a strong understanding of
 
 Current Focus
 
-Deep Learning · Transformers · NLP · DSA · Practical ML Systems
+Deep Learning · Transformers · NLP · DSA · Practical ML Systems · RAG · LLM's · Langchain · Langraph 
 
 <div align="center">
 💬 AI Engineer in the Making
