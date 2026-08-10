@@ -153,8 +153,8 @@ Currently focusing on:
 <img src="https://img.shields.io/badge/CNNs-Concepts-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RNNs-Concepts-6366F1?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Attention-Concepts-4F46E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Transformers-Currently%20Learning-0891B2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-Fundamentals-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Transformers-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-0EA5E9?style=for-the-badge"/>
 
 <br/>
 
